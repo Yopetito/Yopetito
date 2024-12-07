@@ -10,7 +10,8 @@
 
 ## Skills
 
-- 📝 Learning: [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+- 📝 Learning:
+- [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
 - [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 - [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
 - [![My Skills](https://skillicons.dev/icons?i=php)](https://skillicons.dev)
