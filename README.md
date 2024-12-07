@@ -11,7 +11,7 @@
 ## Skills
 
 - 📝 Learning:
-- [![My Skills](https://skillicons.dev/icons?i=html,js,css,php)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=html,js,css,php)](https://skillicons.dev)
 
 ---
 
