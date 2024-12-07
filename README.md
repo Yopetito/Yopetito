@@ -26,7 +26,7 @@
 
 ## Connect with Me
 
-- 📞 Connect with me on [[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)](https://www.linkedin.com/in/yofer-ruffo) to learn more about my professional journey.
+- 📞 Connect with me on [Linkedin](https://www.linkedin.com/in/yofer-ruffo) to learn more about my professional journey.
 
 ---
 
